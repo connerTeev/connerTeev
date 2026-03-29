@@ -38,5 +38,5 @@ I am actively seeking **Junior/Entry-Level Software Engineering** roles where I 
 ---
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/connerTeev" width="1000" height="130"/>
+  <img src="https://render.gitanimals.org/lines/connerTeev" width="1000" height="140"/>
 </a>
