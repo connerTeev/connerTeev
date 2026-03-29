@@ -1,8 +1,4 @@
 <div align="center">
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/connerTeev" width="1000" height="150"/>
-</a>
     
 # Hi there, I'm Conner Teevan 👋
 
@@ -40,3 +36,7 @@ I am actively seeking **Junior/Entry-Level Software Engineering** roles where I 
 </div>
 
 ---
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/connerTeev" width="1000" height="150"/>
+</a>
