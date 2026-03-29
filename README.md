@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/connerTeev" width="1000" height="130"/>
+  <img src="https://render.gitanimals.org/lines/connerTeev" width="1000" height="150"/>
 </a>
     
 # Hi there, I'm Conner Teevan 👋
